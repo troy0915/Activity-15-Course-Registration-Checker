@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Activity 15 Course Registration Checker\bin\Debug\Activity 15 Course Registration Checker.exe.config
+C:\Users\HP\source\repos\Activity 15 Course Registration Checker\bin\Debug\Activity 15 Course Registration Checker.exe
+C:\Users\HP\source\repos\Activity 15 Course Registration Checker\bin\Debug\Activity 15 Course Registration Checker.pdb
+C:\Users\HP\source\repos\Activity 15 Course Registration Checker\obj\Debug\Activity 15 Course Registration Checker.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity 15 Course Registration Checker\obj\Debug\Activity 15 Course Registration Checker.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity 15 Course Registration Checker\obj\Debug\Activity 15 Course Registration Checker.exe
+C:\Users\HP\source\repos\Activity 15 Course Registration Checker\obj\Debug\Activity 15 Course Registration Checker.pdb
